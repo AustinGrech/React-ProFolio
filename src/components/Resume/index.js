@@ -12,7 +12,7 @@ function Resume() {
           </a>
         </p>
 
-        <img className="imageresume" src={image}></img>
+        <img className="imageresume" src={image} alt="detailed resume"></img>
 
         <div className="skillcontainer">
           <ul className="skills">
