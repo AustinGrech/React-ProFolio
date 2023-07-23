@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AustinGrech/React-ProFolio.git",
+  "homepage": "https://austingrech.github.io/React-ProFolio/",
   "dependencies": {
     "bootstrap": "^5.3.0",
     "react": "^16.13.1",
