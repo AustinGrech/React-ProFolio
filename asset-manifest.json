@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-ProFolio/static/css/main.b1ad9804.css",
-    "main.js": "/React-ProFolio/static/js/main.8a0b90a3.js",
-    "static/media/cover-image.jpg": "/React-ProFolio/static/media/cover-image.3f4b8a47f17655a4ac17.jpg",
+    "main.js": "/React-ProFolio/static/js/main.fe543087.js",
+    "static/media/cover-image-2.jpg": "/React-ProFolio/static/media/cover-image-2.f971b5548fff3e74ec20.jpg",
     "static/media/TheTrip.jpg": "/React-ProFolio/static/media/TheTrip.1d64355e63afb4375fe7.jpg",
     "static/media/Mock-Up.jpg": "/React-ProFolio/static/media/Mock-Up.6fbad7058f42c1fb76dc.jpg",
     "static/media/run-buddy.jpg": "/React-ProFolio/static/media/run-buddy.b57f2b88349c6b77211d.jpg",
@@ -21,10 +21,10 @@
     "static/media/JS-PassGenerator.jpg": "/React-ProFolio/static/media/JS-PassGenerator.aa25cbf89939def02f6b.jpg",
     "index.html": "/React-ProFolio/index.html",
     "main.b1ad9804.css.map": "/React-ProFolio/static/css/main.b1ad9804.css.map",
-    "main.8a0b90a3.js.map": "/React-ProFolio/static/js/main.8a0b90a3.js.map"
+    "main.fe543087.js.map": "/React-ProFolio/static/js/main.fe543087.js.map"
   },
   "entrypoints": [
     "static/css/main.b1ad9804.css",
-    "static/js/main.8a0b90a3.js"
+    "static/js/main.fe543087.js"
   ]
 }
