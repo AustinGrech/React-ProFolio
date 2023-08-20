@@ -5,11 +5,11 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: "PWA-Project",
-      description: "PWA Project",
-      link: "https://pwa-text-editor-pro-ac37ea8ad4aa.herokuapp.com/",
-      repo: "https://github.com/AustinGrech/PWA-TEXT-EDITOR",
-      image: "PWA-Pro",
+      name: "The Clean Bee",
+      description: "HTML/CSS/JAVASCRIPT/TWILIO API",
+      link: "https://thecleanbee-dfb60f2cc850.herokuapp.com/",
+      repo: "https://github.com/AustinGrech/TheCleanBee",
+      image: "The-Clean-Bee",
     },
     {
       name: "Event Finder",
@@ -18,6 +18,14 @@ function Portfolio() {
       repo: "https://github.com/AustinGrech/EventFinderr",
       image: "eventfinderrepopic",
     },
+    {
+      name: "PWA-Project",
+      description: "PWA Project",
+      link: "https://pwa-text-editor-pro-ac37ea8ad4aa.herokuapp.com/",
+      repo: "https://github.com/AustinGrech/PWA-TEXT-EDITOR",
+      image: "PWA-Pro",
+    },
+
     {
       name: "JS Password Generator",
       description: "javaScript",
@@ -33,11 +41,18 @@ function Portfolio() {
       image: "TheTrip",
     },
     {
-      name: "PreWork Study Guide",
+      name: "Business Day Scheduler",
+      description: "HTML/CSS/JavaScript",
+      link: "https://austingrech.github.io/Business-Day-Scheduler/",
+      repo: "https://github.com/AustinGrech/Business-Day-Scheduler",
+      image: "BusinessSched",
+    },
+    {
+      name: "Brain Puzzler",
       description: "HTML/CSS",
-      link: "https://austingrech.github.io/prework-study-guide/",
-      repo: "https://github.com/AustinGrech/prework-study-guide",
-      image: "preworkpic",
+      link: "https://austingrech.github.io/Brain-Puzzler/",
+      repo: "https://github.com/AustinGrech/Brain-Puzzler",
+      image: "BrainPuzzle",
     },
     {
       name: "Horiseon",
