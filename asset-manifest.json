@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-ProFolio/static/css/main.b1ad9804.css",
-    "main.js": "/React-ProFolio/static/js/main.2e438728.js",
+    "main.js": "/React-ProFolio/static/js/main.8a0b90a3.js",
     "static/media/cover-image.jpg": "/React-ProFolio/static/media/cover-image.3f4b8a47f17655a4ac17.jpg",
     "static/media/TheTrip.jpg": "/React-ProFolio/static/media/TheTrip.1d64355e63afb4375fe7.jpg",
     "static/media/Mock-Up.jpg": "/React-ProFolio/static/media/Mock-Up.6fbad7058f42c1fb76dc.jpg",
@@ -13,15 +13,18 @@
     "static/media/resume-image.jpg": "/React-ProFolio/static/media/resume-image.fb03f3837db70f6b9c52.jpg",
     "static/media/pastel-puzzels.jpg": "/React-ProFolio/static/media/pastel-puzzels.5ff0a7600bae7cd50d00.jpg",
     "static/media/ItsMe.jpg": "/React-ProFolio/static/media/ItsMe.ead32f5ca88c1bf18d5b.jpg",
+    "static/media/BusinessSched.jpg": "/React-ProFolio/static/media/BusinessSched.e5ced17b0ff23ebad395.jpg",
+    "static/media/The-Clean-Bee.jpg": "/React-ProFolio/static/media/The-Clean-Bee.bc57501215ddfdc0a26d.jpg",
     "static/media/eventfinderrepopic.jpg": "/React-ProFolio/static/media/eventfinderrepopic.89b662aa15d85bafc1b8.jpg",
+    "static/media/BrainPuzzle.jpg": "/React-ProFolio/static/media/BrainPuzzle.d3bae5731c9269d5cbed.jpg",
     "static/media/PWA-Pro.jpg": "/React-ProFolio/static/media/PWA-Pro.48872604dbe50eefb5b5.jpg",
     "static/media/JS-PassGenerator.jpg": "/React-ProFolio/static/media/JS-PassGenerator.aa25cbf89939def02f6b.jpg",
     "index.html": "/React-ProFolio/index.html",
     "main.b1ad9804.css.map": "/React-ProFolio/static/css/main.b1ad9804.css.map",
-    "main.2e438728.js.map": "/React-ProFolio/static/js/main.2e438728.js.map"
+    "main.8a0b90a3.js.map": "/React-ProFolio/static/js/main.8a0b90a3.js.map"
   },
   "entrypoints": [
     "static/css/main.b1ad9804.css",
-    "static/js/main.2e438728.js"
+    "static/js/main.8a0b90a3.js"
   ]
 }
