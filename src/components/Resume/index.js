@@ -1,15 +1,14 @@
 import React from "react";
 import image from "../../assets/projects/resume-image.jpg";
+import resumePDF from "../../assets/small/Austin-Grech-Resume-1-Page.pdf";
+
 function Resume() {
   return (
     <section className="my-5">
       <div className="my-2">
         <p className="resume">
           Download my
-          <a href="https://www.linkedin.com/resume-builder/urn:li:fsd_memberResume:60024468/?edit=true">
-            {" "}
-            resume
-          </a>
+          <a href={resumePDF}> resume</a>
         </p>
 
         <img className="imageresume" src={image} alt="detailed resume"></img>
