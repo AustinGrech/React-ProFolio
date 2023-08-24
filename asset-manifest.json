@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-ProFolio/static/css/main.b1ad9804.css",
-    "main.js": "/React-ProFolio/static/js/main.fe543087.js",
+    "main.css": "/React-ProFolio/static/css/main.262fc9cf.css",
+    "main.js": "/React-ProFolio/static/js/main.5f988291.js",
     "static/media/cover-image-2.jpg": "/React-ProFolio/static/media/cover-image-2.f971b5548fff3e74ec20.jpg",
     "static/media/TheTrip.jpg": "/React-ProFolio/static/media/TheTrip.1d64355e63afb4375fe7.jpg",
     "static/media/Mock-Up.jpg": "/React-ProFolio/static/media/Mock-Up.6fbad7058f42c1fb76dc.jpg",
@@ -10,21 +10,22 @@
     "static/media/calculator.jpg": "/React-ProFolio/static/media/calculator.bb6f4d8d88b3569cb0e0.jpg",
     "static/media/surf-report.jpg": "/React-ProFolio/static/media/surf-report.6490cdfef5afd0538437.jpg",
     "static/media/preworkpic.jpg": "/React-ProFolio/static/media/preworkpic.dcfabc8324858ea834cc.jpg",
-    "static/media/resume-image.jpg": "/React-ProFolio/static/media/resume-image.fb03f3837db70f6b9c52.jpg",
+    "static/media/resume-image.jpg": "/React-ProFolio/static/media/resume-image.b3eddffb8ae4ab64f3bf.jpg",
     "static/media/pastel-puzzels.jpg": "/React-ProFolio/static/media/pastel-puzzels.5ff0a7600bae7cd50d00.jpg",
     "static/media/ItsMe.jpg": "/React-ProFolio/static/media/ItsMe.ead32f5ca88c1bf18d5b.jpg",
     "static/media/BusinessSched.jpg": "/React-ProFolio/static/media/BusinessSched.e5ced17b0ff23ebad395.jpg",
     "static/media/The-Clean-Bee.jpg": "/React-ProFolio/static/media/The-Clean-Bee.bc57501215ddfdc0a26d.jpg",
     "static/media/eventfinderrepopic.jpg": "/React-ProFolio/static/media/eventfinderrepopic.89b662aa15d85bafc1b8.jpg",
+    "static/media/Austin-Grech-Resume-1-Page.pdf": "/React-ProFolio/static/media/Austin-Grech-Resume-1-Page.bc9a99390e44bf234f8c.pdf",
     "static/media/BrainPuzzle.jpg": "/React-ProFolio/static/media/BrainPuzzle.d3bae5731c9269d5cbed.jpg",
     "static/media/PWA-Pro.jpg": "/React-ProFolio/static/media/PWA-Pro.48872604dbe50eefb5b5.jpg",
     "static/media/JS-PassGenerator.jpg": "/React-ProFolio/static/media/JS-PassGenerator.aa25cbf89939def02f6b.jpg",
     "index.html": "/React-ProFolio/index.html",
-    "main.b1ad9804.css.map": "/React-ProFolio/static/css/main.b1ad9804.css.map",
-    "main.fe543087.js.map": "/React-ProFolio/static/js/main.fe543087.js.map"
+    "main.262fc9cf.css.map": "/React-ProFolio/static/css/main.262fc9cf.css.map",
+    "main.5f988291.js.map": "/React-ProFolio/static/js/main.5f988291.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1ad9804.css",
-    "static/js/main.fe543087.js"
+    "static/css/main.262fc9cf.css",
+    "static/js/main.5f988291.js"
   ]
 }
